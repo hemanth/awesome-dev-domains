@@ -23,7 +23,7 @@ List of awesome `.dev` domains.
 * [lodash.dev](https://lodash.dev/)
 * [mdn.dev](https://mdn.dev/)
 * [ncss.dev](https://ncss.dev/)
-* [nodejs.dev](https://node.js.dev)
+* [nodejs.dev](https://nodejs.dev)
 * [opensource.dev](https://opensource.dev/)
 * [percy.dev](https://percy.dev/)
 * [perfetto.dev](https://perfetto.dev/)
