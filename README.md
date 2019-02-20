@@ -34,7 +34,7 @@ List of awesome `.dev` domains.
 * [skaffold.dev](https://skaffold.dev/)
 * [slack.dev](https://slack.dev/)
 * [spinnaker.dev](https://spinnaker.dev/)
-* [stipe.dev](https://stripe.dev/)
+* [stripe.dev](https://stripe.dev/)
 * [tfhub.dev](https://tfhub.dev/)
 * [v8.dev](https://v8.dev/)
 * [web.dev](https://web.dev)
