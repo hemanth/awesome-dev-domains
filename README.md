@@ -14,6 +14,7 @@ List of awesome `.dev` domains.
 * [crm.dev](https://crm.dev/)
 * [dataops.dev](https://dataops.dev/)
 * [datatransferproject.dev](https://datatransferproject.dev/)
+* [fork.dev](https://fork.dev/)
 * [get.dev](https://get.dev)
 * [github.dev](https://github.dev/)
 * [glitch.dev](https://glitch.dev)
