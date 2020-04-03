@@ -43,3 +43,4 @@ List of awesome `.dev` domains.
 * [workers.dev](https://workers.dev/)
 * [xda.dev](https://xda.dev/)
 * [ycombinator.dev](https://ycombinator.dev)
+* [prismos.dev](https://prismos.dev)
